@@ -1,6 +1,6 @@
 # Completed Udemy Courses (2020-2022)
 
-🗂 Organized list of completed courses with detailed contents. Click arrows to explore! ▼
+🗂 Organized list Udemy Courses I have completed. Click arrows to explore! ▼
 
 <details>
 <summary>📁 Artificial Intelligence</summary>
