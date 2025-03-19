@@ -4,8 +4,24 @@
 
 <details>
 <summary>📁 Artificial Intelligence</summary>
+<details>
+<summary>📚 C Language Deep Learning from the ground up</summary>
 
-- *Course list coming soon*
+1. Introduction
+2. Set Up
+3. Introduction to Neural Networks
+4. Introduction to Neural Network (Part 2)
+5. Logistic Regression
+6. Deep Neural Networks
+7. Improving Neural Networks
+8. -Building a Complete Neural Network Library for Predicting Handwritten Numbers-
+9. Building Our Neural Network Library Utility Functions
+10. Building Our Neural Network Library Engine
+11. Testing our Neural Network Library
+12. Closing
+13. 
+</details>
+
 </details>
 
 <details>
